@@ -1,1 +1,21 @@
-# ppml-RECORD
+#PPML RECORD EXPERIMENTS:[220801238]
+
+1. FUNDAMENTALS WITH NumPy, Pandas, Matplotlib
+
+2. MATHEMATICAL OPERATIONS:Euclidean distance,Dot product, Linear equation.
+
+3. ACTIVATION FUNCTIONS : Sigmoid function, tanh function.
+
+4. GRADIENT DESCENT : gradient descent algorithm.
+
+5. VEHICLE PERFORMANCE ANALYSIS: using pandas.
+
+6. DATA WRANGLING.
+
+7. LINEAR REGRESSION.
+
+8. LOGISTIC REGRESSION.
+
+9. LINEAR REGRESSION WITH KERAS.
+
+10. SUPPORT VECTOR REGRESSION (SVR).
